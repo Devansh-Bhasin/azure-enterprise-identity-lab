@@ -1,8 +1,8 @@
 # Azure Enterprise Identity Lab
 
-A portfolio-ready Microsoft Azure and Windows Server lab that demonstrates how to deploy and manage a small enterprise identity environment. This project combines Azure infrastructure, Active Directory Domain Services, DNS, Group Policy, and file share permissions in a realistic corporate-style setup built around the `corp.local` domain.
+A Microsoft Azure and Windows Server lab that demonstrates how to deploy and manage a small enterprise identity environment. This project combines Azure infrastructure, Active Directory Domain Services, DNS, Group Policy, and file share permissions in a realistic corporate-style setup built around the `corp.local` domain.
 
-This repository is designed to showcase hands-on systems administration and identity management skills in a clean, professional format suitable for GitHub, interviews, and resume projects.
+This repository documents the lab build, configuration, and validation steps in a clean technical format suitable for GitHub and professional project review.
 
 ## Project Overview
 
@@ -140,7 +140,7 @@ If any screenshot includes sensitive data such as usernames tied to personal ide
 - DNS validation and troubleshooting
 - SMB share creation and permission assignment
 - Enterprise access control design
-- Technical documentation for portfolio presentation
+- Technical documentation and configuration validation
 
 ## Future Improvements
 
@@ -151,6 +151,6 @@ If any screenshot includes sensitive data such as usernames tied to personal ide
 - Expand the lab with Azure AD Connect or hybrid identity components
 - Add backup, monitoring, and patch management documentation
 
-## Resume-Ready Project Summary
+## Lab Summary
 
-Built a Microsoft Azure-based enterprise identity lab using Windows Server and Active Directory Domain Services. Deployed a domain controller (`DC01`) in Azure, configured the `corp.local` domain, created organizational units and role-based security groups, enforced password policy through Group Policy, validated DNS functionality, and implemented a shared folder with group-based access controls. Documented the full environment with architecture screenshots and supporting technical notes for portfolio presentation.
+Built a Microsoft Azure-based enterprise identity lab using Windows Server and Active Directory Domain Services. Deployed a domain controller (`DC01`) in Azure, configured the `corp.local` domain, created organizational units and role-based security groups, enforced password policy through Group Policy, validated DNS functionality, and implemented a shared folder with group-based access controls. Documented the environment with architecture screenshots and supporting technical notes.
