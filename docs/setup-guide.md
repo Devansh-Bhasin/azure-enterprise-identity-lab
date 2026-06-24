@@ -115,5 +115,5 @@ Before making this repository public:
 
 ## Related Files
 
-- Main project summary: [README.md](/C:/Users/devan/Desktop/azure-ad-lab/README.md)
-- Screenshot map: [docs/screenshot-index.md](/C:/Users/devan/Desktop/azure-ad-lab/docs/screenshot-index.md)
+- Main project summary: [README.md](../README.md)
+- Screenshot map: [docs/screenshot-index.md](screenshot-index.md)

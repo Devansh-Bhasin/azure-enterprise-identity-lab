@@ -120,12 +120,12 @@ This portion of the lab demonstrates practical file server administration using 
 
 ## Documentation
 
-- Setup guide: [docs/setup-guide.md](/C:/Users/devan/Desktop/azure-ad-lab/docs/setup-guide.md)
-- Screenshot index: [docs/screenshot-index.md](/C:/Users/devan/Desktop/azure-ad-lab/docs/screenshot-index.md)
+- Setup guide: [docs/setup-guide.md](docs/setup-guide.md)
+- Screenshot index: [docs/screenshot-index.md](docs/screenshot-index.md)
 
 ## Screenshots
 
-Project screenshots belong in [screenshots](/C:/Users/devan/Desktop/azure-ad-lab/screenshots) using the final filenames documented in the screenshot index for easy review.
+Project screenshots belong in [screenshots](screenshots/) using the final filenames documented in the screenshot index for easy review.
 
 If any screenshot includes sensitive data such as usernames tied to personal identity, internal IP details, or other environment-specific information, it should be blurred or cropped before publishing publicly.
 

@@ -1,6 +1,6 @@
 # Screenshots
 
-Place the project screenshots for the Azure Enterprise Identity Lab in this folder using the filenames documented in [../docs/screenshot-index.md](/C:/Users/devan/Desktop/azure-ad-lab/docs/screenshot-index.md).
+Place the project screenshots for the Azure Enterprise Identity Lab in this folder using the filenames documented in [../docs/screenshot-index.md](../docs/screenshot-index.md).
 
 Expected files:
 
