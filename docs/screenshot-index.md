@@ -6,6 +6,8 @@ This index maps each screenshot to the part of the lab it documents and defines 
 
 Before uploading publicly, review every image and blur or crop any sensitive information that may appear, including internal addresses, account details, or any environment-specific identifiers that should not be exposed.
 
+The screenshots committed in this repository have been sanitized where needed to remove sensitive values such as subscription identifiers, public IP information, and personal account details.
+
 ## Screenshots
 
 1. [01-resource-group-overview.png](/C:/Users/devan/Desktop/azure-ad-lab/screenshots/01-resource-group-overview.png)
